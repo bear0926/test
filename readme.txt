@@ -1,2 +1,1 @@
-This is for the github test!
-This is the change from github!
+This file is used for the git test!
